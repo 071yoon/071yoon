@@ -1,5 +1,9 @@
-### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat&logo='42'&logoColor=ffffff"/></a>
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/42_Seoul-FFFFFF?style=flat&logo=42&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=Apple&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=C&logoColor=000000"/></a>
+
+![071yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=071yoon&show_icons=true&theme=radical)
 
 <!--
 **071yoon/071yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
