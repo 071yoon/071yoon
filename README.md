@@ -3,9 +3,11 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=Apple&logoColor=000000"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=C&logoColor=000000"/></a>
 
-![071yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=071yoon&show_icons=true&theme=radical)
+[![yeoyoon's 42 stats](https://badge42.herokuapp.com/api/stats/yeoyoon?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
 
 <!--
+![071yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=071yoon&show_icons=true&theme=radical)
 **071yoon/071yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
