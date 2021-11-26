@@ -1,13 +1,15 @@
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/42_Seoul-FFFFFF?style=flat&logo=42&logoColor=000000"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=Apple&logoColor=000000"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=C&logoColor=000000"/></a>
-
-[![yeoyoon's 42 stats](https://badge42.herokuapp.com/api/stats/yeoyoon?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+<a href="https://profile.intra.42.fr/users/yeoyoon" target="_blank"><img src="https://img.shields.io/badge/Seoul-FFFFFF?style=flat&logo=42&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Apple-FFFFFF?style=flat&logo=Apple&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
+<a href="https://navy-bear-12b.notion.site/s-Scratch-6763588fb4804ffa90050d3d069d15d6" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/></a>
 
 
 <!--
 ![071yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=071yoon&show_icons=true&theme=radical)
+[![yeoyoon's 42 stats](https://badge42.herokuapp.com/api/stats/yeoyoon?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
 **071yoon/071yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
