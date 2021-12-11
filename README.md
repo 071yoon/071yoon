@@ -6,7 +6,7 @@
 <a href="https://navy-bear-12b.notion.site/s-Scratch-6763588fb4804ffa90050d3d069d15d6" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=071yoon&hide=java&layout=compact)](https://github.com/071yoon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=071yoon&exclude_repo=MBTI_Matching&layout=compact)](https://github.com/071yoon/github-readme-stats)
 
 <!--
 ![071yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=071yoon&show_icons=true&theme=radical)
