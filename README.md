@@ -4,6 +4,8 @@
 
 🧑🏼‍💻 42Seoul Cadet 2021.11 ~
 
+<!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=071yoon&show_icons=true)-->
+
 ### STACKS
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
