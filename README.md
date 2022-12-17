@@ -8,7 +8,7 @@
 
 🧑🏼‍💻 42Seoul Cadet 2021.11 ~ 2022.05
 
-🧑🏼‍💻 SW Mastero 13th 2022.04 ~
+🧑🏼‍💻 SW Mastero 13th 2022.04 ~ 2022.12
 
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=071yoon&show_icons=true)-->
 
