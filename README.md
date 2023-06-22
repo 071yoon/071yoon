@@ -26,7 +26,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2F071yoon%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  [![wakatime](https://wakatime.com/badge/user/4292264a-e9dd-4cc1-8ab6-1ada6ddb177a.svg)](https://wakatime.com/@4292264a-e9dd-4cc1-8ab6-1ada6ddb177a)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbs3924)](https://solved.ac/dbs3924) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=071yoon&exclude_repo=Matching-App-via-MBTI,071yoon.github.io&layout=compact)](https://github.com/071yoon/github-readme-stats)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbs3924)](https://solved.ac/dbs3924) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=071yoon&exclude_repo=Matching-App-via-MBTI,071yoon.github.io&layout=compact)](https://github.com/071yoon/github-readme-stats) -->
 
 <!--
 ![071yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=071yoon&show_icons=true&theme=radical)
