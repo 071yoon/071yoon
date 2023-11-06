@@ -12,7 +12,7 @@
 
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=071yoon&show_icons=true)-->
 
-<img align='left' src='https://github.com/071yoon/071yoon/assets/66371206/315c484d-38a7-4863-859a-420b648a9e0c' width='220'>
+<img src='https://github.com/071yoon/071yoon/assets/66371206/5f5a3c9b-bb0e-4d0c-8be8-40b925415a96' width='600'>
 
 ### INFO
 
