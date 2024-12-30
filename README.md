@@ -17,7 +17,7 @@
 ### INFO
 
 <a href="https://yeonggi.notion.site/YeongGi-s-Scratch-9085f2628b87451a9e19e655c9c5bd5e" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/></a> <a href="https://071yoon.github.io" target="_blank"><img src="https://img.shields.io/badge/github.io-FFFFFF?style=flat&logo=github&logoColor=000000"/></a>  <a href="https://velog.io/@071yoon" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>  
-Learn more from [about](https://071yoon.github.io/about)
+Learn more from [about](https://yeonggi-about.vercel.app/)
 
 ### STACKS
 
